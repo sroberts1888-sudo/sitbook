@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 600" role="img" aria-labelledby="title desc">
+  <title id="title">SitBook</title>
+  <desc id="desc">Private pet sitter records, beautifully organised.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#f4f0df"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3d7b5c"/>
+      <stop offset="1" stop-color="#1f5b42"/>
+    </linearGradient>
+    <linearGradient id="sage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dfe8c7"/>
+      <stop offset="1" stop-color="#acc58e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#173c2d" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <rect width="1800" height="600" rx="42" fill="url(#bg)"/>
+  <path d="M0 455 C240 390 380 530 620 455 C850 385 975 525 1210 447 C1440 370 1560 425 1800 350 L1800 600 L0 600 Z" fill="#d8e7bd"/>
+  <path d="M0 510 C255 435 360 580 650 505 C925 432 1055 565 1325 487 C1510 435 1630 460 1800 420 L1800 600 L0 600 Z" fill="#a8c487" opacity=".78"/>
+
+  <g opacity=".55" fill="#9ab778">
+    <circle cx="95" cy="250" r="18"/><circle cx="70" cy="220" r="11"/><circle cx="95" cy="205" r="11"/><circle cx="120" cy="220" r="11"/>
+    <circle cx="1090" cy="165" r="16"/><circle cx="1068" cy="138" r="10"/><circle cx="1090" cy="128" r="10"/><circle cx="1113" cy="140" r="10"/>
+    <circle cx="1650" cy="180" r="17"/><circle cx="1625" cy="150" r="10"/><circle cx="1650" cy="140" r="10"/><circle cx="1676" cy="153" r="10"/>
+  </g>
+
+  <g transform="translate(155 112)" filter="url(#shadow)">
+    <rect width="300" height="300" rx="58" fill="url(#green)"/>
+    <rect x="78" y="52" width="164" height="196" rx="26" fill="#fff7e6"/>
+    <path d="M58 64 Q48 68 48 86 V238 Q48 254 64 254 H224" fill="none" stroke="#82aa70" stroke-width="22" stroke-linecap="round"/>
+    <rect x="95" y="238" width="35" height="60" fill="#82aa70"/>
+    <path d="M112 280 L95 299 L130 299 Z" fill="#82aa70"/>
+    <g fill="#2e6b50">
+      <ellipse cx="132" cy="122" rx="18" ry="24"/>
+      <ellipse cx="176" cy="112" rx="18" ry="24"/>
+      <ellipse cx="100" cy="150" rx="16" ry="21" transform="rotate(-18 100 150)"/>
+      <ellipse cx="207" cy="150" rx="16" ry="21" transform="rotate(18 207 150)"/>
+      <path d="M118 186 Q152 150 188 186 Q205 205 184 226 Q151 243 121 226 Q101 206 118 186 Z"/>
+    </g>
+  </g>
+
+  <g fill="#194d38">
+    <text x="535" y="250" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="112" font-weight="800" letter-spacing="-4">SitBook</text>
+    <text x="545" y="325" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="39" font-weight="500">Private pet sitter records,</text>
+    <text x="545" y="374" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="39" font-weight="500">beautifully organised.</text>
+  </g>
+
+  <g transform="translate(1210 120)" filter="url(#shadow)">
+    <ellipse cx="160" cy="265" rx="155" ry="98" fill="#fff4dc"/>
+    <circle cx="125" cy="150" r="88" fill="#e7b96d"/>
+    <path d="M54 132 Q20 78 73 56 Q92 102 104 120 Z" fill="#d39f58"/>
+    <path d="M198 127 Q236 72 272 102 Q245 135 216 148 Z" fill="#d39f58"/>
+    <ellipse cx="125" cy="167" rx="46" ry="35" fill="#f4d39a"/>
+    <circle cx="105" cy="144" r="6" fill="#26362d"/>
+    <circle cx="145" cy="144" r="6" fill="#26362d"/>
+    <ellipse cx="125" cy="166" rx="11" ry="8" fill="#3a332d"/>
+    <path d="M113 180 Q125 192 138 180" fill="none" stroke="#3a332d" stroke-width="5" stroke-linecap="round"/>
+
+    <circle cx="292" cy="210" r="75" fill="#dadbd6"/>
+    <path d="M236 172 L248 113 L277 150 Z" fill="#b7b9b6"/>
+    <path d="M332 169 L352 119 L365 185 Z" fill="#b7b9b6"/>
+    <ellipse cx="292" cy="228" rx="44" ry="33" fill="#f7efe2"/>
+    <circle cx="276" cy="202" r="5" fill="#26362d"/>
+    <circle cx="309" cy="202" r="5" fill="#26362d"/>
+    <path d="M286 220 Q292 225 299 220" fill="none" stroke="#875f5f" stroke-width="5" stroke-linecap="round"/>
+    <path d="M280 229 Q292 240 305 229" fill="none" stroke="#875f5f" stroke-width="4" stroke-linecap="round"/>
+
+    <g transform="translate(108 250)">
+      <rect x="0" y="0" width="170" height="130" rx="24" fill="#fdf5e6" stroke="#2e6b50" stroke-width="14"/>
+      <g fill="#2e6b50" transform="translate(42 24)">
+        <ellipse cx="34" cy="20" rx="11" ry="15"/>
+        <ellipse cx="62" cy="14" rx="11" ry="15"/>
+        <ellipse cx="15" cy="39" rx="10" ry="13" transform="rotate(-18 15 39)"/>
+        <ellipse cx="82" cy="39" rx="10" ry="13" transform="rotate(18 82 39)"/>
+        <path d="M27 61 Q49 38 72 61 Q83 74 70 86 Q49 97 28 86 Q15 75 27 61 Z"/>
+      </g>
+    </g>
+  </g>
+
+  <g opacity=".28" fill="#396c52">
+    <ellipse cx="1705" cy="90" rx="20" ry="62" transform="rotate(32 1705 90)"/>
+    <ellipse cx="1740" cy="125" rx="18" ry="55" transform="rotate(58 1740 125)"/>
+    <ellipse cx="1673" cy="120" rx="17" ry="48" transform="rotate(8 1673 120)"/>
+  </g>
+</svg>
